@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fotografia xmlns:dc="http://purl.org/dc/elements/1.1/" xml:id="fotografia">
+	<immagine n="5" xml:id="IT-CPA-ST0104-0000081">
+		<img source="Mezzi.png"/>
+		<dc:identifier>IT-CPA-ST0104-0000081</dc:identifier>
+		<dc:title>Carri armati in Piazza Maggiore</dc:title>
+		<dc:description>I cortei festanti e i carrarmati sono documentati nel loro passaggio nelle principali zone del centro cittadino. Nel caso di questa foto ci troviamo sul Crescentone di Piazza Maggiore.</dc:description>
+		<dc:creator>Armando Ferroni </dc:creator>
+		<dc:date>1945-W16-6T08:00:00+02:00</dc:date>
+        <dc:type>immagine</dc:type>
+		<dc:type>fotografia</dc:type>
+		<dc:format>4,5x6,5 cm, orientamento orizzontale e verticale</dc:format>
+		<dc:source>https://www.cittadegliarchivi.it/pages/getDetail/sysCodeId:IT-CPA-ST0104-0000081</dc:source>
+	    <dc:subject>21 aprile </dc:subject>
+		<dc:subject>Liberazione</dc:subject>
+		<dc:subject>Resistenza</dc:subject>
+		<dc:audience>Italiani</dc:audience>
+		<dc:publisher>Fondazione del Monte di Bologna e Ravenna</dc:publisher>
+		<dc:medium> fotografia b/n, gelatina bromuro d'argento/carta</dc:medium>
+		<dc:coverage>Bologna,BO</dc:coverage>
+		<dc:rights> ArchIVI è un portale promosso e gestito da Fondazione del Monte di Bologna e Ravenna.I contenuti del sito - codice di script, grafica, testi, immagini, suoni, audiovisivi e ogni altra informazione disponibile in qualunque forma - sono protetti ai sensi della normativa a tutela delle opere dell'ingegno. </dc:rights>
+		<dc:collection>Archivio della famiglia Ferroni</dc:collection>
+		<dc:fileformat>png</dc:fileformat>
+		<dc:standard>Scheda F ICCD</dc:standard>
+	</immagine>
+</fotografia>

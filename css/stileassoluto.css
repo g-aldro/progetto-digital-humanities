@@ -1,0 +1,49 @@
+section a {
+	font-style:bold;
+	color:red;
+}
+
+section a:link {
+  text-decoration: none;
+ 
+  font-style:bold;
+}
+
+section a:visited {
+  text-decoration: none;
+  color:red;
+  font-style:bold;
+}
+
+section a:hover {
+  text-decoration: underline;
+  color:red;
+  font-style:bold;
+}
+
+section a:active {
+  text-decoration: underline;
+  color:red;
+  font-style:bold;
+}
+
+footer a {
+	text-decoration:none;
+	color:white;
+	font-style:bold;
+}
+
+footer a:hover {
+  text-decoration: underline;
+  color:red;
+  font-style:bold;
+}
+
+section {
+	margin-right:10px;
+	margin-left:10px;
+}
+
+aside {
+	margin-left:20px;
+}

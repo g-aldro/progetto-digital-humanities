@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader> 
+      <fileDesc>
+         <titleStmt>
+            <title sameAs="https://www.cittadegliarchivi.it/pages/getDetail/idIUnit:684/archCode:FT0032">Dichiarazione CNL</title>
+            <author sameAs="http://viaf.org/viaf/79402136/#Dozza,_Giuseppe"> Giuseppe Dozza </author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name xml:id="MB">Marco Battelli</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p> Esercizio realizzato per l'esame di Digital Humanities dell'Università di Bologna</p>
+         </publicationStmt>
+         <sourceDesc>   
+            <biblStruct xml:lang="It">
+               <monogr>
+                  <imprint>
+                     <pubPlace sameAs="http://vocab.getty.edu/page/tgn/7003127" > Città di Bologna </pubPlace>
+                     <publisher> Comune di Bologna</publisher>
+                    <date when="1945">1945</date>                     
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body> 
+         <p>BOLOGNESI! <lb/> Chiamato dal Comitato di Liberazione Nazionale ad <lb/> assumere la funzione di Sindaco della città, mi rivolgo <lb/> a voi nella grande ora dellaliberazione. <lb/> Si levi dovunque il tricolore nazilonale a salutare <lb/> questagiornata di gloria e di vittoria. <lb/> Il popolo tutto saluti con entusiasmo e passione <lb/> di patriottismo e di libertà i valorosi Eserciti Alleati <lb/> liberatori,l'eroicoe rinnovato Esercito Italiano, il glorioso <lb/> Corpo dei Volontari della libertà. <lb/> Le forza armata della nuova e libera Italia prose- <lb/> guiranno questa guerra
+            giusta e santa, a fianco degli <lb/> Alleati, fino alla totale liberazione dei fratellidel Setten- <lb/> trione, fino all'annientamoento del mostro hitlero-fascista. <lb/> La vigilanza dei Volontari della Libertà e del po- <lb/> polo, sventi ogni eventuale insidia del nemico, fiancheggi <lb/> validamente le forze alleate,epuri la città dai tedeschi <lb/> e dai fascisti. <lb/> I lavoratori si mettano immediatamente a disposi<lb/> zione degli organi autorizzati per le opere urgenti neces- <lb/> sarie alla rapida
+            prosecuzione delle azioni militari alleate. <lb/>BOLOGNESI! <lb/> Riconfermi al mondointero la nostra amata Bolo- <lb/>gna l'indomita volontà di libertà e di giustizia che<lb/>anima gli italiani del Nord, il popolo italiano tutto. <lb/>Unità di tutto il popolo, ordine e disciplina sono <lb/>le nostre parole d'ordine <lb/> 
+            W BOLOGNA LIBERATA! - W L'ITALIA! <lb/> 
+            24 aprile 1945                           il Sindaco <lb/>
+            
+           Giuseppe Dozza </p>
+      </body>
+   </text>
+</TEI>
